@@ -1,19 +1,13 @@
 ---
 layout: page
-title: About Pixyll
+title: Who am I?
 permalink: /about/
 ---
 
-This Jekyll theme was crafted with <3 by [John Otander](http://johnotander.com)
-([@4lpine](https://twitter.com/4lpine)).
+<div class="py2 post-footer">
+    <img src="{{ site.avatar }}" alt="Jason Wang" class="avatar" />
+</div>
 
-Checkout the [Github repository](https://github.com/johnotander/pixyll) to download it,
-request a feature, report a bug, or contribute. It's free, and open source
-([MIT](http://opensource.org/licenses/MIT)).
+I'm a Computer Science alumnus from UC San Diego.
 
-Thanks to the following:
-
-* [BASSCSS](http://basscss.com)
-* [Jekyll](http://jekyllrb.com)
-* [Refills](http://refills.bourbon.io/)
-* [Type Scale](http://type-scale.com/)
+I enjoy working on side projects; if you have an idea and need extra hands, please let me know!

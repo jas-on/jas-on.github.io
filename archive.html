@@ -1,0 +1,15 @@
+---
+layout: default
+title: Archive
+---
+
+<div class="posts archive">
+    {% for post in site.posts %}
+      {% capture currentyear %}{{post.date | date: "%B %Y"}}{% endcapture %}
+      {% if currentyear != year %}
+        <h3 class="h2 post-title">{{ currentyear }}</h3>
+        {% capture year %}{{currentyear}}{% endcapture %} 
+      {% endif %}
+      <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+    {% endfor %}
+</div>
