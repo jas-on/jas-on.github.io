@@ -1,13 +1,35 @@
 ---
 layout: page
-title: Who am I?
 permalink: /about/
 ---
-
-<div class="py2 post-footer">
-    <img src="{{ site.avatar }}" alt="Jason Wang" class="avatar" />
-</div>
-
-I'm a Computer Science alumnus from UC San Diego.
-
-I enjoy working on side projects; if you have an idea and need extra hands, please let me know!
+<img src="{{ site.avatar }}" alt="Jason Wang" class="me"/>
+<p align="center">
+    Gamer
+</p>
+<p align="center">
+    Software Engineer
+</p>
+<p align="center">
+    UCSD CS alum
+</p>
+<p align="center">
+    Runner
+</p>
+<p align="center">
+    Dragon boater
+</p>
+<p align="center">
+    Climber
+</p>
+<p align="center">
+    Toastmaster
+</p>
+<p align="center">
+    Yodeler
+</p>
+<p align="center">
+    <a href="http://myanimelist.net/animelist/frustrum">Anime</a>
+</p>
+<p align="center">
+    <a href="/assets/resume.pdf">Résumé</a>
+</p>

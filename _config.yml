@@ -63,7 +63,7 @@ redcarpet:
 permalink:    pretty
 
 gems: [jekyll-paginate]
-paginate:     4
+paginate:     5
 
 sass:
   compressed: true
