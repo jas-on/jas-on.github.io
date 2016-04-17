@@ -1,0 +1,6 @@
+---
+layout: post
+title: First day at Kaiser Permanente
+summary: Initial impressions of being on the inside of the healthcare giant
+---
+Today was my first day of work, and, for the most part, it was orientation and setting up my work station. I will be working primarily with one other intern, as well as one mentor. We hashed out the details of the main project we will be working on today, and it seems like we’re going to be adopting an iterative-type development cycle. I’m looking forward to working with C# and AngularJS, a JavaScript framework. I’ve been interested in web development for a while, but I’ve mostly worked with JEE technology, so this will be a good learning experience. This summer will be a busy one! I talked to a lot of other interns, and, surprisingly, a lot of them do not come from Computer Science backgrounds. I’ve also noticed that there is a lot of overhead in terms of work etiquette; this includes protocols for clocking in and out, dressing a certain way, and communicating with bad software to name a few. I suppose it’s understandable that the company wants to maintain a standard for every employee to follow to ensure quality, especially consider that this company is a huge health care provider (which I suppose is similar to the government in terms of permanence and need).
