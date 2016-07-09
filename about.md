@@ -22,7 +22,7 @@ permalink: /about/
     <a href="http://planetgranite.com/">Climber</a>
 </p>
 <p align="center">
-    <a href="www.meetup.com/Agile-Articulators-Toastmasters-Club">Toastmaster</a>
+    <a href="http://www.meetup.com/Agile-Articulators-Toastmasters-Club">Toastmaster</a>
 </p>
 <p align="center">
     <a href="https://www.yahoo.com/">Yodeler</a>
